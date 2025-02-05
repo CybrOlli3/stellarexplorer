@@ -1,5 +1,7 @@
 # Stellar Explorer
 
+[SdexDecentralized Ledger explorer and analytics platform](https://stellar.expert/explorer/public0
+
 [Stellar Dashboard Explorer](https://dashboard.stellar.org/)
 
 [Build Status Soroban](https://nownodes.io/nodes)
