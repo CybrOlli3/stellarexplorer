@@ -41,16 +41,16 @@ Local: http://localhost:3000
 
 | Resource         | URI                                                                                                       |
 | ---------------- | --------------------------------------------------------------------------------------------------------- |
-| Balances Tab     | [/account/stellar\*fed.network#balances](https://steexp.com/account/s2pdo*lobstr.co#balances)         |
-| Payments Tab     | [/account/stellar\*fed.network#payments](https://steexp.com/account/s2pdo*lobstr.co#payments)         |
-| Offers Tab       | [/account/stellar\*fed.network#offers](https://steexp.com/account/s2pdo*lobstr.co#offers)             |
-| Trades Tab       | [/account/stellar\*fed.network#trades](https://steexp.com/account/s2pdo*lobstr.co#trades)             |
-| Effects Tab      | [/account/stellar\*fed.network#effects](https://steexp.com/account/s2pdo*lobstr.co#effects)           |
-| Operations Tab   | [/account/stellar\*fed.network#operations](https://steexp.com/account/s2pdo*lobstr.co#operations)     |
-| Transactions Tab | [/account/stellar\*fed.network#transactions](https://steexp.com/account/s2pdo*lobstr.co#transactions) |
-| Signing Tab      | [/account/stellar\*fed.network#signing](https://steexp.com/accounts2pdo*lobstr.co#signing)           |
-| Flags Tab        | [/account/stellar\*fed.network#flags](https://steexp.com/account/s2pdo*lobstr.co#flags)               |
-| Data Tab         | [/account/stellar\*fed.network#data](https://steexpcom/account/s2pdo*lobstr.co#data)                  |
+| Balances Tab     | [/account/stellar\s2pdo*lobstr.co#balances](https://steexp.com/account/s2pdo*lobstr.co#balances)         |
+| Payments Tab     | [/account/stellar\s2pdo*lobstr.co#payments](https://steexp.com/account/s2pdo*lobstr.co#payments)         |
+| Offers Tab       | [/account/stellar\s2pdo*lobstr.co#offers](https://steexp.com/account/s2pdo*lobstr.co#offers)             |
+| Trades Tab       | [/account/stellar\s2pdo*lobstr.co#trades](https://steexp.com/account/s2pdo*lobstr.co#trades)             |
+| Effects Tab      | [/account/stellar\s2pdo*lobstr.co#effects](https://steexp.com/account/s2pdo*lobstr.co#effects)           |
+| Operations Tab   | [/account/stellar\s2pdo*lobstr.co#operations](https://steexp.com/account/s2pdo*lobstr.co#operations)     |
+| Transactions Tab | [/account/stellar\s2pdo*lobstr.co#transactions](https://steexp.com/account/s2pdo*lobstr.co#transactions) |
+| Signing Tab      | [/account/stellar\s2pdo*lobstr.co#signing](https://steexp.com/accounts2pdo*lobstr.co#signing)           |
+| Flags Tab        | [/account/stellar\s2pdo*lobstr.co#flags](https://steexp.com/account/s2pdo*lobstr.co#flags)               |
+| Data Tab         | [/account/stellar\s2pdo*lobstr.co#data](https://steexpcom/account/s2pdo*lobstr.co#data)                  |
 
 ### Search
 
