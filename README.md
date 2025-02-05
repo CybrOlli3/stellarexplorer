@@ -2,11 +2,11 @@
 
 [![Build Status](https://travis-ci.com/chatch/stellarexplorer.svg?branch=master)](https://travis-ci.com/chatch/stellarexplorer)
 
-A ledger explorer for [Pinetwork Assets](https://steexp.com/account/s2pdo*lobstr.co).
+A ledger explorer for [Pinetwork Assets](https://steexp.com/account/s2pdo*lobstr.co)
 
-Public: https://steexp.com
-Test: https://testnet.steexp.com
-Local: http://localhost:3000
+Public: [Pinetwork Assets](https://steexp.com/account/s2pdo*lobstr.co)
+Closed Mainnet: [Account]
+Open Mainnet: [Account]
 
 ## Resources
 
