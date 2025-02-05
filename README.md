@@ -1,6 +1,6 @@
 # Stellar Explorer
 
-[Stellar Explorer](https://steexp.com/)
+[Stellar Dashboard Explorer](https://dashboard.stellar.org/)
 
 [Build Status Soroban](https://nownodes.io/nodes)
 
