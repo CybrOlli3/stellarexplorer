@@ -5,7 +5,9 @@
 A ledger explorer for [Pinetwork Assets](https://steexp.com/account/s2pdo*lobstr.co)
 
 Public: [Pinetwork Assets](https://steexp.com/account/s2pdo*lobstr.co)
+
 Closed Mainnet: [Account]
+
 Open Mainnet: [Account]
 
 ## Resources
