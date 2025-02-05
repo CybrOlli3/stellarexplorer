@@ -1,8 +1,8 @@
 # Stellar Explorer
 
-[Build Status](https://soroban.nownodes.io/)
+[Build Status](https://www.sorobanexp.com/blockchain/ac/account/)
 
-A ledger Public explorer for [Pinetwork & Stellar Assets](https://steexp.com/account/s2pdo*lobstr.co)
+A ledger Public explorer for [Pinetwork & Stellar Assets](https://stellar.expert/explorer/public/account/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3)
 
 
 Closed Mainnet: [Pi Account](https://blockexplorer.minepi.com/mainnet/account/GBNTRPVIV5XF7W3QC6SSPJBE3KO5KOBFNNAFQVQLP54JUXMWABBPKNN4)
