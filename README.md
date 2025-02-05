@@ -1,6 +1,6 @@
 # Stellar Explorer
 
-[Build Status](https://www.sorobanexp.com/blockchain/ac/account/)
+[Build Status Soroban](https://www.sorobanexp.com/blockchain/ac/account/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3))
 
 A ledger Public explorer for [Pinetwork & Stellar Assets](https://stellar.expert/explorer/public/account/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3)
 
