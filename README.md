@@ -56,7 +56,7 @@ Local: http://localhost:3000
 
 | Resource              | URI |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Federated address     | [/search/steexp\*fed.network](https://steexp.com/search/s2pdo*lobstr.co) |
+| Federated address     | [/search/steexp\s2pdo*lobstr.co](https://steexp.com/search/s2pdo*lobstr.co) |
 | Public address        | [/search/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3](https://steexp.com/search/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3) |
 | Ledger                | [/search/10000000](https://steexp.com/search/10000000) |
 | Transaction           | [/search/26a568681712a44a515b2c90dcfaadb3ed2c40dc60254638407937bee4767071](https://steexp.com/search/26a568681712a44a515b2c90dcfaadb3ed2c40dc60254638407937bee4767071) |
