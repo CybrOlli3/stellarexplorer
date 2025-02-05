@@ -6,9 +6,9 @@ A ledger explorer for [Pinetwork Assets](https://steexp.com/account/s2pdo*lobstr
 
 Public: [Pinetwork Assets](https://steexp.com/account/s2pdo*lobstr.co)
 
-Closed Mainnet: [Account]
+Closed Mainnet: [Pi Account](https://blockexplorer.minepi.com/mainnet/account/GBNTRPVIV5XF7W3QC6SSPJBE3KO5KOBFNNAFQVQLP54JUXMWABBPKNN4)
 
-Open Mainnet: [Account]
+Open Mainnet: [Pi Account](https://steexp.com/account/GBNTRPVIV5XF7W3QC6SSPJBE3KO5KOBFNNAFQVQLP54JUXMWABBPKNN4)
 
 ## Resources
 
