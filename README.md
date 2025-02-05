@@ -1,6 +1,6 @@
 # Stellar Explorer
 
-[SdexDecentralized Ledger explorer and analytics platform](https://stellar.expert/explorer/public0
+[SdexDecentralized Ledger explorer and analytics platform](https://stellar.expert/explorer/public)
 
 [Stellar Dashboard Explorer](https://dashboard.stellar.org/)
 
