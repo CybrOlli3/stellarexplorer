@@ -33,30 +33,30 @@ Local: http://localhost:3000
 
 | Resource             | URI |
 | -------------------- | --- |
-| by Federated address | [/account/stellar\*fed.network](https://steexp.com/account/stellar*fed.network) |
-| by Public address    | [/account/GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX](https://steexp.com/account/GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX) |
-| by Multiplexed address    | [/account/MDZ464OWNGEL4X2DE6JPLEARO2WJ4AGCBN3XM7E4ZSLPHRBV6AZB6AAAAAAAAAAAAGW4M](https://steexp.com/account/MDZ464OWNGEL4X2DE6JPLEARO2WJ4AGCBN3XM7E4ZSLPHRBV6AZB6AAAAAAAAAAAAGW4M) |
+| by Federated address | [/account/stellar\*fed.network](https://steexp.com/account/s2pdo*lobstr.co) |
+| by Public address    | [/account/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3](https://steexp.com/account/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3) |
+
 
 #### Tabs
 
 | Resource         | URI                                                                                                       |
 | ---------------- | --------------------------------------------------------------------------------------------------------- |
-| Balances Tab     | [/account/stellar\*fed.network#balances](https://steexp.com/account/stellar*fed.network#balances)         |
-| Payments Tab     | [/account/stellar\*fed.network#payments](https://steexp.com/account/stellar*fed.network#payments)         |
-| Offers Tab       | [/account/stellar\*fed.network#offers](https://steexp.com/account/stellar*fed.network#offers)             |
-| Trades Tab       | [/account/stellar\*fed.network#trades](https://steexp.com/account/stellar*fed.network#trades)             |
-| Effects Tab      | [/account/stellar\*fed.network#effects](https://steexp.com/account/stellar*fed.network#effects)           |
-| Operations Tab   | [/account/stellar\*fed.network#operations](https://steexp.com/account/stellar*fed.network#operations)     |
-| Transactions Tab | [/account/stellar\*fed.network#transactions](https://steexp.com/account/stellar*fed.network#transactions) |
-| Signing Tab      | [/account/stellar\*fed.network#signing](https://steexp.com/account/stellar*fed.network#signing)           |
-| Flags Tab        | [/account/stellar\*fed.network#flags](https://steexp.com/account/stellar*fed.network#flags)               |
-| Data Tab         | [/account/stellar\*fed.network#data](https://steexpcom/account/stellar*fed.network#data)                  |
+| Balances Tab     | [/account/stellar\*fed.network#balances](https://steexp.com/account/s2pdo*lobstr.co#balances)         |
+| Payments Tab     | [/account/stellar\*fed.network#payments](https://steexp.com/account/s2pdo*lobstr.co#payments)         |
+| Offers Tab       | [/account/stellar\*fed.network#offers](https://steexp.com/account/s2pdo*lobstr.co#offers)             |
+| Trades Tab       | [/account/stellar\*fed.network#trades](https://steexp.com/account/s2pdo*lobstr.co#trades)             |
+| Effects Tab      | [/account/stellar\*fed.network#effects](https://steexp.com/account/s2pdo*lobstr.co#effects)           |
+| Operations Tab   | [/account/stellar\*fed.network#operations](https://steexp.com/account/s2pdo*lobstr.co#operations)     |
+| Transactions Tab | [/account/stellar\*fed.network#transactions](https://steexp.com/account/s2pdo*lobstr.co#transactions) |
+| Signing Tab      | [/account/stellar\*fed.network#signing](https://steexp.com/accounts2pdo*lobstr.co#signing)           |
+| Flags Tab        | [/account/stellar\*fed.network#flags](https://steexp.com/account/s2pdo*lobstr.co#flags)               |
+| Data Tab         | [/account/stellar\*fed.network#data](https://steexpcom/account/s2pdo*lobstr.co#data)                  |
 
 ### Search
 
 | Resource              | URI |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Federated address     | [/search/steexp\*fed.network](https://steexp.com/search/steexp*fed.network) |
+| Federated address     | [/search/steexp\*fed.network](https://steexp.com/search/s2pdo*lobstr.co) |
 | Public address        | [/search/GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX](https://steexp.com/search/GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX) |
 | Multiplexed address        | [/search/MDZ464OWNGEL4X2DE6JPLEARO2WJ4AGCBN3XM7E4ZSLPHRBV6AZB6AAAAAAAAAAAAGW4M](https://steexp.com/search/MDZ464OWNGEL4X2DE6JPLEARO2WJ4AGCBN3XM7E4ZSLPHRBV6AZB6AAAAAAAAAAAAGW4M) |
 | Ledger                | [/search/10000000](https://steexp.com/search/10000000) |
