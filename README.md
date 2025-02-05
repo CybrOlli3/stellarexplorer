@@ -1,12 +1,14 @@
 # Stellar Explorer
 
-[Build Status Soroban](https://www.sorobanexp.com/blockchain/ac/account/GBNTRPVIV5XF7W3QC6SSPJBE3KO5KOBFNNAFQVQLP54JUXMWABBPKNN4)
+[Build Status Soroban](https://nownodes.io/nodes)
 
 A ledger Public explorer for [Pinetwork & Stellar Assets](https://stellar.expert/explorer/public/account/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3)
 
 
 Closed Mainnet: [Pi Account](https://blockexplorer.minepi.com/mainnet/account/GBNTRPVIV5XF7W3QC6SSPJBE3KO5KOBFNNAFQVQLP54JUXMWABBPKNN4)
+
 Open Mainnet: [Pi Account](https://steexp.com/account/GBNTRPVIV5XF7W3QC6SSPJBE3KO5KOBFNNAFQVQLP54JUXMWABBPKNN4)
+
 Soroban Explorer: [Soroban Account](https://www.sorobanexp.com/blockchain/ac/account/GBNTRPVIV5XF7W3QC6SSPJBE3KO5KOBFNNAFQVQLP54JUXMWABBPKNN4)
 
 ## Resources
