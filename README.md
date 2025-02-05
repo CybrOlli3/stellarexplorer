@@ -57,13 +57,12 @@ Local: http://localhost:3000
 | Resource              | URI |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Federated address     | [/search/steexp\*fed.network](https://steexp.com/search/s2pdo*lobstr.co) |
-| Public address        | [/search/GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX](https://steexp.com/search/GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX) |
-| Multiplexed address        | [/search/MDZ464OWNGEL4X2DE6JPLEARO2WJ4AGCBN3XM7E4ZSLPHRBV6AZB6AAAAAAAAAAAAGW4M](https://steexp.com/search/MDZ464OWNGEL4X2DE6JPLEARO2WJ4AGCBN3XM7E4ZSLPHRBV6AZB6AAAAAAAAAAAAGW4M) |
+| Public address        | [/search/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3](https://steexp.com/search/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3) |
 | Ledger                | [/search/10000000](https://steexp.com/search/10000000) |
 | Transaction           | [/search/26a568681712a44a515b2c90dcfaadb3ed2c40dc60254638407937bee4767071](https://steexp.com/search/26a568681712a44a515b2c90dcfaadb3ed2c40dc60254638407937bee4767071) |
-| Asset Code            | [/search/NGN](https://steexp.com/search/NGN) |
-| Anchor Name           | [/search/ripplefox](https://steexp.com/search/ripplefox) |
-| Anchor Name (Partial) | [/search/fox](https://steexp.com/search/fox) |
+| Asset Code            | [/search/NGN](https://steexp.com/search/s2pdo) |
+| Anchor Name           | [/search/ripplefox](https://steexp.com/search/s2pdo) |
+| Anchor Name (Partial) | [/search/fox](https://steexp.com/search/s2pdo) |
 
 ### Misc
 
