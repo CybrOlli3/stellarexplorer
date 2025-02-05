@@ -33,7 +33,7 @@ Local: http://localhost:3000
 
 | Resource             | URI |
 | -------------------- | --- |
-| by Federated address | [/account/stellar\*fed.network](https://steexp.com/account/s2pdo*lobstr.co) |
+| by Federated address | [/account/stellar\s2pdo*lobstr.co](https://steexp.com/account/s2pdo*lobstr.co) |
 | by Public address    | [/account/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3](https://steexp.com/account/GCL2DTNZF6YTZAF2PUYT4M3L7AVB4ZGJHACGK2PUPLGCDX5QJKNJC7M3) |
 
 
